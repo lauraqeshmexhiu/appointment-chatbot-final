@@ -32,7 +32,5 @@ Backend set up
 Front end set up
 - npm install
 - npm run serve
-- npm install
-- npm run serve
 
 
